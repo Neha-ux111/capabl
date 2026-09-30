@@ -8,3 +8,4 @@ scikit-learn
 google-generativeai
 python-dotenv
 toml
+streamlit

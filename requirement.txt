@@ -1,11 +1,7 @@
-numpy
-pandas
-matplotlib
-seaborn
-torch
-torchvision
-scikit-learn
-google-generativeai
-python-dotenv
-toml
 streamlit
+python-dotenv
+langchain-community
+langchain-google-genai
+pypdf
+chromadb
+sentence-transformers
